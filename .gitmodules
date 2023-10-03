@@ -1,0 +1,30 @@
+[submodule "nitorch-io"]
+	path = nitorch-io
+	url = https://github.com/nitorch/nitorch-io
+[submodule "nitorch-core"]
+	path = nitorch-core
+	url = https://github.com/nitorch/nitorch-core
+[submodule "nitorch-fastmath"]
+	path = nitorch-fastmath
+	url = https://github.com/nitorch/nitorch-fastmath
+[submodule "nitorch-solvers"]
+	path = nitorch-solvers
+	url = https://github.com/nitorch/nitorch-solvers
+[submodule "nitorch-register"]
+	path = nitorch-register
+	url = https://github.com/nitorch/nitorch-register
+[submodule "nitorch-qmri"]
+	path = nitorch-qmri
+	url = https://github.com/nitorch/nitorch-qmri
+[submodule "nitorch-plot"]
+	path = nitorch-plot
+	url = https://github.com/nitorch/nitorch-plot
+[submodule "nitorch-cli"]
+	path = nitorch-cli
+	url = https://github.com/nitorch/nitorch-cli
+[submodule "nitorch-nn"]
+	path = nitorch-nn
+	url = https://github.com/nitorch/nitorch-nn
+[submodule "nitorch-bayes"]
+	path = nitorch-bayes
+	url = https://github.com/nitorch/nitorch-bayes
