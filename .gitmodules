@@ -31,3 +31,6 @@
 [submodule "nitorch-interpol"]
 	path = nitorch-interpol
 	url = https://github.com/nitorch/nitorch-interpol
+[submodule "jitfields"]
+	path = jitfields
+	url = https://github.com/balbasty/jitfields
