@@ -28,3 +28,6 @@
 [submodule "nitorch-bayes"]
 	path = nitorch-bayes
 	url = https://github.com/nitorch/nitorch-bayes
+[submodule "nitorch-interpol"]
+	path = nitorch-interpol
+	url = https://github.com/nitorch/nitorch-interpol
